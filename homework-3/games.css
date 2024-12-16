@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.game-cards {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    border: 5px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.game-card {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game-card2 {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game-card3 {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 100px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 7px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+.button-card {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
