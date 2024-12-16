@@ -22,19 +22,6 @@
     align-items: center;
 }
 
-.game-card2 {
-    display: flex;
-    gap: 8px;
-    flex-direction: column;
-    align-items: center;
-}
-
-.game-card3 {
-    display: flex;
-    gap: 8px;
-    flex-direction: column;
-    align-items: center;
-}
 
 button {
     width: 100px;
