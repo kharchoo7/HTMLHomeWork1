@@ -10,7 +10,7 @@ h1 {
 
 .title {
     display: grid;
-    width: 1300px;
+    max-width: 1300px;
     margin: 22px auto;
     gap: 25px;
     align-items: center;
